@@ -1,4 +1,4 @@
-# Project-001 :Survey Form (HC-01)
+# Survey Form (baslik)
 
 ## Description
 Project aims to create survey form within html and css.
@@ -6,7 +6,7 @@ Project aims to create survey form within html and css.
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Survey Form](https://muharremgem.github.io/HTML_CSS_Survey_form/)| Html Css  |![Survey Form](surveyform.gif)
+[Survey Form](link yazilacak)| Html Css(kullanilan yazilim dili)  |![Survey Form](surveyform.gif)
 
 ## Problem Statement
 
@@ -17,19 +17,15 @@ Project aims to create survey form within html and css.
 - Figma
 ## Project Skeleton 
 
-```
-001-survey-form (folder)
+
+survey-form (folder)  vsc structure
 |
 |----readme.md         # Given to the students (Definition of the project)          
 |----solution
         |----index.html  
         |----style.css   
         |----result.html 
-```
 
-## Expected Outcome
-
-![Project 001 Snapshot] (./netflix-form.png)
 
 ## Objective
 
@@ -60,7 +56,7 @@ Functionally create a Survey Form as in the image above
 
 - Step 2: Create project folder for local public repo on your pc
 
-- Step 3: Create Survey Form
+- Step 3: Create Survey Form (yeni proje adi)
 
 >>Part-1 HTML Structure
 
@@ -69,7 +65,7 @@ Functionally create a Survey Form as in the image above
 	- Create the main structure of the container (div id="container")
 	- Create Main Topic of the project (id="title")
 	- Create a description of your project (id="description")
-	- Create a form (id="survey-form")
+	- Create a form (id="survey-form") proje adi
 	- Create 4 divisions (class="box") for each label and single-line text input field (Tips:dont forget to use placeholder)
 	- Create a division (class="box") for a dropdown list. (Tips:dont forget to use a label tag)
 	- Create a division (class="box") for checkbox list
@@ -94,9 +90,7 @@ Functionally create a Survey Form as in the image above
 
 - You can use HTML,and CSS to complete this project.
 
-## Resources
 
--  [Background Image Url](./background_image.jpg)
 
 
 <center> &#8987; Happy Coding  &#9997; </center>
