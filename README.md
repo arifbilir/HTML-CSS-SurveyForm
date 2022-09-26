@@ -19,12 +19,17 @@ Project aims to create survey form within html and css.
 
 
 survey-form (folder)  vsc structure
-|
-|----readme.md         # Given to the students (Definition of the project)          
+
+
+|----readme.md                 
+
 |----solution
-        |----index.html  
-        |----style.css   
-        |----result.html 
+        
+	|----index.html  
+        
+	|----style.css   
+        
+	|----result.html 
 
 
 ## Objective
